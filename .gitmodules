@@ -1,0 +1,30 @@
+[submodule "lib/packager"]
+	path = lib/packager
+	url = git://github.com/kamicane/packager.git
+[submodule "javascripts/core"]
+	path = javascripts/core
+	url = git://github.com/mootools/mootools-core.git
+[submodule "javascripts/more"]
+	path = javascripts/more
+	url = git://github.com/mootools/mootools-more.git
+[submodule "javascripts/slideshow"]
+	path = javascripts/slideshow
+	url = git://github.com/rpflorence/SlideShow.git
+[submodule "javascripts/loop"]
+	path = javascripts/loop
+	url = git://github.com/rpflorence/Loop.git
+[submodule "javascripts/class-extras"]
+	path = javascripts/class-extras
+	url = git://github.com/cpojer/mootools-class-extras.git
+[submodule "javascripts/custom-event"]
+	path = javascripts/custom-event
+	url = git://github.com/cpojer/mootools-custom-event.git
+[submodule "javascripts/mobile"]
+	path = javascripts/mobile
+	url = git://github.com/cpojer/mootools-mobile.git
+[submodule "javascripts/channels"]
+	path = javascripts/channels
+	url = git://github.com/rpflorence/mootools-channels.git
+[submodule "javascripts/element-behaviors"]
+	path = javascripts/element-behaviors
+	url = git://github.com/rpflorence/mootools-element-behaviors.git
