@@ -20,4 +20,9 @@ Isn't it great?!
 
     <script src="/build.php?scripts=Core/Element,Core/Request"></script>
 
+		<!-- write the file instead -->
+    <script src="/build.php?path=/path/to/site/build.js&scripts=Core/Element,Core/Request"></script>
+    <script src="build.js"></script>
+		
+
 More coming ...
